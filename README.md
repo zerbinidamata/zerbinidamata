@@ -24,9 +24,4 @@ Hey there, I'm Rafael Zerbini, welcome! I'm a Software Engineer with a backgroun
 [Google Scholar](https://scholar.google.com.br/citations?user=P8n5MzkAAAAJ&hl=pt-BR)
 
 
-# Some fun stats 
-
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zerbinidamata&count_private=true&show_icons=true&theme=dark&include_all_commits=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerbinidamata&theme=dark&hide=html,php,css,jupyter%20notebook&count_private=true&show_icons=true&layout=compact)
-
 
